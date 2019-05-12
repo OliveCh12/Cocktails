@@ -1,0 +1,78 @@
+{
+  "content": [
+    {
+      "name": "Tommy's Margarita",
+      "type": "Short Drink",
+      "ingredients": ["5cl Tequila", "3cl sirop agave", "2 jus vert"]
+    },
+    {
+      "name": "Expresso Martini",
+      "type": "Short Drink",
+      "ingredients": [
+        "5cl Vodka",
+        "1 café",
+        "1cl de khalhua",
+        "1cl sirop de canne"
+      ]
+    },
+    {
+      "name": "Negroni",
+      "type": "Short Drink",
+      "ingredients": ["4cl Dolin Rouge", "3cl Campari", "3cl Gin tanqueray"]
+    },
+    {
+      "name": "Pisco Sour",
+      "type": "Short Drink",
+      "ingredients": [
+        "5cl Pisco",
+        "3cl Blanc d'oeuf",
+        "2cl Jus vert",
+        "2cl Sirop de canne"
+      ]
+    },
+    {
+      "name": "Old Fashioned",
+      "type": "Short Drink",
+      "ingredients": [
+        "5cl Bulleit",
+        "1 sucre",
+        "1cl d'eau",
+        "Angostura",
+        "1cl perrier"
+      ]
+    },
+    {
+      "name": "La Nina",
+      "type": "Short Drink",
+      "ingredients": [
+        "5cl Rhum pineapple",
+        "3cl Coco",
+        "2cl Ananas",
+        "2cl Velvet"
+      ]
+    },
+    {
+      "name": "Mint Julep",
+      "type": "Short Drink",
+      "ingredients": [
+        "5cl Bulleit",
+        "3cl Canne",
+        "1cl d'eau",
+        "15 menthe fraîche (Petit Verre)",
+        "Angostura"
+      ]
+    },
+    {
+      "name": "Mai Tai",
+      "type": "Short Drink",
+      "ingredients": [
+        "3cl Rhum Dark",
+        "3cl Rhum pineapple",
+        "3cl Jus vert",
+        "3cl jus d'orange",
+        "1cl Velvet",
+        "1cl orgeat"
+      ]
+    }
+  ]
+}
