@@ -23,8 +23,6 @@ const Recepe = () => {
     });
   };
 
-
-
   const toggleRecepe = () => {
     setShow(!show);
   };
