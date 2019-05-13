@@ -154,7 +154,7 @@
       "ingredients": ["Jus de Framboise", "Jus de Pomme", "Citron Vert"]
     },
     {
-      "name": "Tspahan",
+      "name": "Ispahan",
       "type": "Sans Alcool",
       "ingredients": [
         "Jus de Framboise",
@@ -237,6 +237,97 @@
       "name": "WhiteLlady",
       "type": "Classique",
       "ingredients": ["2cl Gin", "2cl de Grand Marnier", "2cl Jus Vert"]
+    },
+    {
+      "name": "Sour",
+      "type": "Classique",
+      "ingredients": ["5cl Bulleit", "1 Citron", "2cl Sirop de Canne"]
+    },
+    {
+      "name": "Manhattan",
+      "type": "Classique",
+      "ingredients": ["4cl Bulleit", "2cl Dolin Rouge", "5 Gouttes Angostura"]
+    },
+    {
+      "name": "Long Island",
+      "type": "Classique",
+      "ingredients": [
+        "2cl Vodka",
+        "2cl Gin",
+        "2cl Rhum Blanc",
+        "2cl Grand Marnier",
+        "2cl Tequilla",
+        "1cl Jus de Citron",
+        "3cl Coca"
+      ]
+    },
+    {
+      "name": "Tom Collin",
+      "type": "Classique",
+      "ingredients": [
+        "4cl Gin",
+        "2cl Jus de Citron",
+        "Sucre en poudre",
+        "Perrier"
+      ]
+    },
+    {
+      "name": "Higtball",
+      "type": "Classique",
+      "ingredients": ["4cl Bulleit", "Tonic"]
+    },
+    {
+      "name": "Sea Breeze",
+      "type": "Classique",
+      "ingredients": ["7cl Cranberry", "4cl Jus de Pamplemousse", "4cl Vodka"]
+    },
+    {
+      "name": "Moscow Mule",
+      "type": "Classique",
+      "ingredients": ["6cl Vodka", "2cl Jus de Vert", "Fever Ginger"]
+    },
+    {
+      "name": "Vesper",
+      "type": "Classique",
+      "ingredients": [
+        "2cl Vodka",
+        "6cl Gin",
+        "1cl Lillet Blanc",
+        "1 Zeste d'Orange",
+        "Angostura"
+      ]
+    },
+    {
+      "name": "Sazerac",
+      "type": "Classique",
+      "ingredients": [
+        "1cl Pastis ou Ricard",
+        "4 Gouttes Angostura",
+        "1cl Sirop de Canne",
+        "6cl Bulleit",
+        "1 Zeste de Citron"
+      ]
+    },
+    {
+      "name": "Sex on the Beach",
+      "type": "Classique",
+      "ingredients": [
+        "3cl Vodka",
+        "2c de Chambord",
+        "5cl Jus d'Ananas",
+        "6cl de Cranberry",
+        "Sirop de Pêche"
+      ]
+    },
+    {
+      "name": "Pina Colada",
+      "type": "Classique",
+      "ingredients": [
+        "4cl Rhum Blanc",
+        "2cl Rhum Ambré",
+        "12cl Jus d'Ananas",
+        "4cl Lait de Coco"
+      ]
     }
   ]
 }
