@@ -9,7 +9,7 @@
 }
 
 .App-header {
-  background-color: #282c34;
+  background-color: #15171b;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -31,26 +31,55 @@
     transform: rotate(360deg);
   }
 }
-
+.btn-group {
+  position: absolute;
+  bottom: 0;
+  display: flex;
+  width: 100%;
+}
 .btn-footer {
   background-color: #6c5ce7;
   font-size: 12pt;
   color: #fff;
   border: inherit;
-  position: absolute;
-  bottom: 0;
   width: 100%;
   height: 4rem;
   transition: 0.1s;
 }
+.btn-footer:nth-last-child(1) {
+  background-color: #78e75c;
+}
 .btn-footer:hover {
-  background-color: #6759d1;
+  opacity: 0.8;
 }
 
 .btn-footer:focus {
   box-shadow: none;
   outline: none;
 }
-.btn-footer:active{
-  background-color: #464070;
+.btn-footer:active {
+  opacity: 0.5;
+}
+.ShortDrink {
+  color: #6c5ce7;
+}
+.LongDrink {
+  color: #5ec467;
+}
+.SansAlcool {
+  color: #da4985;
+}
+.Classique {
+  color: gold;
+}
+
+.pulse {
+  animation: pulse_3957 5s linear infinite;
+  transform-origin: 50% 50%;
+}
+
+@keyframes pulse_3957 {
+  0% { transform: scale(1.1) }
+  50% { transform: scale(0.9) }
+  100% { transform: scale(1.1) }
 }
