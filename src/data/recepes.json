@@ -73,6 +73,170 @@
         "1cl Velvet",
         "1cl orgeat"
       ]
+    },
+    {
+      "name": "Dark & Stormi",
+      "type": "Long Drink",
+      "ingredients": [
+        "5cl Rhum Dark",
+        "1/2 Citron Vert",
+        "12cl Fever ginger",
+        "Angostura"
+      ]
+    },
+    {
+      "name": "Pineapple Mule",
+      "type": "Long Drink",
+      "ingredients": [
+        "5cl Rhum Pineapple",
+        "2cl Jus Vert",
+        "2cl Canne",
+        "2cl Ginger",
+        "Fever Ginger"
+      ]
+    },
+    {
+      "name": "Aperol Spritz",
+      "type": "Long Drink",
+      "ingredients": ["5cl Aperol", "Prosecco", "4cl Perrier"]
+    },
+    {
+      "name": "New Sangria",
+      "type": "Long Drink",
+      "ingredients": [
+        "5cl Vodka",
+        "1cl Jus Vert",
+        "2cl Velvet",
+        "5cl Syrah",
+        "Fever Ginger"
+      ]
+    },
+    {
+      "name": "New Sangria",
+      "type": "Long Drink",
+      "ingredients": [
+        "5cl Vodka",
+        "1cl Jus Vert",
+        "2cl Velvet",
+        "5cl Syrah",
+        "Fever Ginger"
+      ]
+    },
+    {
+      "name": "Ocean Bourbon",
+      "type": "Long Drink",
+      "ingredients": [
+        "5cl Bulleit",
+        "1cl Chambort",
+        "1cl Dolin Rouge",
+        "6cl Cranberry",
+        "Angostura"
+      ]
+    },
+    {
+      "name": "Red Bulle",
+      "type": "Long Drink",
+      "ingredients": [
+        "1cl Mescal (vida)",
+        "8cl Champagne",
+        "2 framboise",
+        "2 coriande (Coupé)"
+      ]
+    },
+    {
+      "name": "Agave",
+      "type": "Sans Alcool",
+      "ingredients": ["Jus de Poire", "Jus de citron vert", "Sirop d'agave"]
+    },
+    {
+      "name": "Merlot",
+      "type": "Sans Alcool",
+      "ingredients": ["Jus de Framboise", "Jus de Pomme", "Citron Vert"]
+    },
+    {
+      "name": "Tspahan",
+      "type": "Sans Alcool",
+      "ingredients": [
+        "Jus de Framboise",
+        "Sirop de Litchy",
+        "Rose",
+        "Citron Vert"
+      ]
+    },
+    {
+      "name": "Mojito",
+      "type": "Classique",
+      "ingredients": [
+        "4cl Rhum",
+        "4cl Citron Vert",
+        "2cl Jus Vert",
+        "Menthes Fraîches",
+        "Sucre de Canne",
+        "Perrier"
+      ]
+    },
+    {
+      "name": "Mojito",
+      "type": "Classique",
+      "ingredients": [
+        "4cl Rhum",
+        "4cl Citron Vert",
+        "2cl Jus Vert",
+        "Menthes Fraîches",
+        "Sucre de Canne",
+        "Perrier"
+      ]
+    },
+    {
+      "name": "Americano",
+      "type": "Classique",
+      "ingredients": [
+        "4cl Dolin Rouge",
+        "4cl Campari",
+        "Perrier",
+        "Tyranche Orange"
+      ]
+    },
+    {
+      "name": "Irish Coffee",
+      "type": "Classique",
+      "ingredients": [
+        "2cl Sirop de Canne",
+        "3cl Whisky",
+        "Chauffer",
+        "2 café",
+        "Chantilly"
+      ]
+    },
+    {
+      "name": "Cuba Libre",
+      "type": "Classique",
+      "ingredients": ["5cl Rhum", "Citron Vert", "Coca"]
+    },
+    {
+      "name": "Cosmopolitain",
+      "type": "Classique",
+      "ingredients": [
+        "4cl Vodka",
+        "2cl Grand Marnier",
+        "2cl Cranberry",
+        "1cl Jus Vert"
+      ]
+    },
+    {
+      "name": "Caipirinha",
+      "type": "Classique",
+      "ingredients": ["4cl Cahaça", "2cl Jus Vert", "Sucre", "Citron Vert"]
+    },
+    {
+      "name": "Tequila Sunrise",
+      "type": "Classique",
+      "ingredients": ["6cl Tequila", "Jus d'orange", "2cl de grenadine"]
+    },
+    {
+      "name": "WhiteLlady",
+      "type": "Classique",
+      "ingredients": ["2cl Gin", "2cl de Grand Marnier", "2cl Jus Vert"]
     }
   ]
 }
